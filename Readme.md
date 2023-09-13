@@ -18,4 +18,5 @@ nest g module tasks
 nest g controller tasks --no-spec
 nest g service tasks --no-spec
 yarn add uuid
+yarn add class-validator class-transformer
 ```
